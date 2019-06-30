@@ -92,10 +92,7 @@ npm run build
 Builds the app for production to the `dist` folder.<br>
 All static files to be deployed are generated in this folder
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://cli.vuejs.org/guide/deployment.html#gitlab-pages) for more information.
 <br>
 <br>
 <br>

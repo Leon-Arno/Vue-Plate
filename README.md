@@ -1,6 +1,8 @@
-# A React Boilerplate with Bootstrap 4 + Font-Awesome
+# A VueJS Boilerplate with BootstrapVue configured with Webpack
 
-![webshot](./src/assets/logo.png)
+<p align="center"> 
+<img src="./src/assets/logo.png">
+</p>
 
 This is a minimal VueJS boilerplate powered by [Webpack](https://webpack.js.org/) configured with:
 
